@@ -1,3 +1,3 @@
-# tamkeen2
+# tamkeen
 
 A women empowerment app
