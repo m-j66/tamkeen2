@@ -1,3 +1,3 @@
 # tamkeen2
 
-A new Flutter project.
+A women empowerment app
